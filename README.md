@@ -26,7 +26,7 @@ A clean, dark-themed web app that fetches the top 10 trending stories from [Hack
 ### Installation
 
 ```bash
-git clone https://github.com/<your-username>/tech-news-digest.git
+git clone https://github.com/MyatHtetKyaw/tech-news-digest.git
 cd tech-news-digest
 npm install
 ```
