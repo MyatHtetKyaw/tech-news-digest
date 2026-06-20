@@ -59,7 +59,3 @@ tech-news-digest/
 2. `formatDigest.js` categorizes them into topic groups.
 3. `summarizer.js` produces a short summary of the day's highlights.
 4. Everything is rendered server-side with EJS and served as a single page.
-
-## License
-
-MIT
